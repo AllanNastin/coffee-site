@@ -1,0 +1,25 @@
+.margin-left{
+    margin-left: 2vw;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.no-bullet, .no-bullet * {
+    list-style: none;
+}
+
+/* all headers and p to ave 0 marging and padding */
+h1, h2, h3, h4, h5, h6, p, ul{
+    margin: 0;
+    padding: 0;
+}

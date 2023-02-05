@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  transform-origin: 52.18% 43.33% ;
 }
 
 @media (prefers-reduced-motion: no-preference) {
